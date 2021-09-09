@@ -5,7 +5,7 @@
             alt="Typing SVG"
         />
     </a>
-  
+
   <div align="center">
     <img src = "https://telegra.ph/file/bb574aa27e6fbd9364a7a.jpg" width="320px" height="250px">
 
